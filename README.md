@@ -21,8 +21,8 @@ Desenvolvedor **full-stack** — construo aplicações de ponta a ponta, do banc
 
 ### 📫 Contato
 
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- E-mail: seu-email@exemplo.com
+- LinkedIn: www.linkedin.com/in/cauanysouza
+- E-mail: scauany99@gmail.com | souza.cauany99@gmail.com
 
 ---
 
