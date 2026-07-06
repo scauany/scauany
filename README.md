@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**scauany/scauany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **full-stack** — construo aplicações de ponta a ponta, do banco de dados à interface. Foco em código limpo, soluções pragmáticas e aprendizado contínuo. Em 2026, incorporando IA ao fluxo de trabalho para entregar mais rápido sem abrir mão de qualidade.
 
-Here are some ideas to get you started:
+### 🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Back-end**
+`Ruby on Rails` · `TypeScript` · `Node.js`
+
+**Front-end**
+`Vue.js` · `JavaScript` · `TypeScript`
+
+**Bancos de dados**
+`PostgreSQL` · `MongoDB`
+
+### 🚀 No que estou trabalhando
+
+- Reconstruindo meu portfólio com projetos que unem back-end sólido em Rails e front-end reativo em Vue
+- Explorando desenvolvimento assistido por IA — e onde *não* confiar no código gerado
+- Aprendendo em público: cada repositório aqui é um passo do processo
+
+### 📫 Contato
+
+- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- E-mail: seu-email@exemplo.com
+
+---
+
+*"Quem para, retrocede." Sempre construindo o próximo.*
